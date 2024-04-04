@@ -1,0 +1,27 @@
+.navbar-logo{
+    display: flex;
+    margin-left: -0px;
+}
+
+.navbar-logo h1 {
+	margin-top:8px;
+    margin-left: 18px;
+	padding-top:20px;
+	float: left;	
+	font-size: 20px;	
+	color: #416D19;	
+	text-transform:uppercase;
+	font-weight:900;
+}
+.navbar-logo h1 span {
+	color: #416D19;
+}
+
+.about img {
+	place-items:center ;
+	display: grid;
+	width: auto;
+	height: auto;
+	margin-bottom:30px;
+	border-radius:0px;
+}
